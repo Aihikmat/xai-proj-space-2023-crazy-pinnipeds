@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_ksQZrdK)
 
 # Explainable AI Assignment 1: Projection Space Exploration
 In this assignment, you are challenged to analyze and compare solutions of a problem, game, algorithm, model, or anything else that can be represented by sequential states. For this, you will project the high-dimensional states to the two-dimensional space, connect the states, and add meta-data to the visualization.
@@ -15,10 +14,6 @@ For the intermediate submission, please enter the group and dataset information.
 
 | Student ID    | First Name  | Last Name      | E-Mail |  Workload [%] |
 | --------------|-------------|----------------|--------|---------------|
-| 51831270        | Markus      | Karner         |K51831270@students.jku.at  |45%         |
-| 11913261        | Hikmatullah      | Razaghi        |donhiki10@gmail.com  |30%         |
-| 12248150       | Mahmoud      | Elsherief         |mahmoudsherief2019@gmail.com  |0%         |
-| 12147764       | Kareem     | Muhammed    |  K12147764@students.jku.at|25%         |
 
 ### Dataset
 Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
